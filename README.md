@@ -24,8 +24,10 @@ Here are some ideas to get you started:
 -->
 
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=t13ka&layout=compact&count_private=true&theme=tokyonight" />
 </p>
 
+<p align="center">
  [![t13ka's github stats](https://github-readme-stats.vercel.app/api?username=t13ka&show_icons=true&theme=tokyonight)](https://github.com/t13ka)
+</p>
