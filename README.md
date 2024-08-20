@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi everyone! I'm t13ka 👋
+
+👯 I'm looking IT partners. to build projects in spheres:
+
+⭐Blockchain 
+⭐AI/AR/VR 
+⭐Games
+⭐Web
+txt me: t13ka@yandex.ru 
 
 <!--
 **t13ka/t13ka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
