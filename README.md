@@ -6,7 +6,7 @@
 ⭐AI/AR/VR/ML
 ⭐Games
 ⭐Web
-txt me: t13ka@yandex.ru 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=txt+me:+t13ka@yandex.ru)](https://git.io/typing-svg)
 
 <!--
 **t13ka/t13ka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
