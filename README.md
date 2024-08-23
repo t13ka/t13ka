@@ -24,3 +24,4 @@ Here are some ideas to get you started:
 
 [![t13ka's github stats](https://github-readme-stats.vercel.app/api?username=t13ka&show_icons=true&theme=tokyonight)](https://github.com/t13ka)
 
+![](https://komarev.com/ghpvc/?username=t13ka)
