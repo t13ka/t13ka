@@ -3,7 +3,7 @@
 👯 I'm looking IT partners. to build projects in spheres:
 
 ⭐Blockchain 
-⭐AI/AR/VR 
+⭐AI/AR/VR/ML
 ⭐Games
 ⭐Web
 txt me: t13ka@yandex.ru 
