@@ -1,12 +1,8 @@
 ## Hi everyone! I'm t13ka 👋
 
-👯 I'm looking IT partners. to build projects in spheres:
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&pause=500&multiline=true&width=680&height=100&lines=+I'm+looking+IT+partners.+to+build+projects+in+spheres%3A++;Blockchain%2C+ML%2C+AR%2C+VR%2C+Games%2C+Web;email%3A+t13ka%40yandex.ru)](https://git.io/typing-svg)
 
-⭐Blockchain 
-⭐AI/AR/VR/ML
-⭐Games
-⭐Web
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=txt+me:+t13ka@yandex.ru)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=email+me:+t13ka@yandex.ru)](https://git.io/typing-svg)
 
 <!--
 **t13ka/t13ka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
