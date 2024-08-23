@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&pause=500&multiline=true&width=860&height=100&lines=+Hi+everyone+I'm+T13ka.+I'm+looking+IT+partners.+to+build+projects+in+spheres%3A++;Blockchain%2C+ML%2C+AR%2C+VR%2C+Games%2C+Web;email%3A+t13ka%40yandex.ru)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&pause=500&multiline=true&width=920&height=100&lines=+Hi+everyone+I'm+T13ka.+I'm+looking+IT+partners.+to+build+projects+in+spheres%3A++;Blockchain%2C+ML%2C+AR%2C+VR%2C+Games%2C+Web;email%3A+t13ka%40yandex.ru)](https://git.io/typing-svg)
 
 <!--
 **t13ka/t13ka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
