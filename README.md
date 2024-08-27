@@ -16,14 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=t13ka&layout=compact&count_private=true&theme=tokyonight" />
-</p>
-
-[![t13ka's github stats](https://github-readme-stats.vercel.app/api?username=t13ka&show_icons=true&theme=tokyonight)](https://github.com/t13ka)
-
-![](https://komarev.com/ghpvc/?username=t13ka)
-
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -77,3 +69,10 @@ Here are some ideas to get you started:
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)
 
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=t13ka&layout=compact&count_private=true&theme=tokyonight" />
+</p>
+
+[![t13ka's github stats](https://github-readme-stats.vercel.app/api?username=t13ka&show_icons=true&theme=tokyonight)](https://github.com/t13ka)
+
+![](https://komarev.com/ghpvc/?username=t13ka)
