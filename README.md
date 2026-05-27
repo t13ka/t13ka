@@ -1,20 +1,31 @@
+### Hi there 👋
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&pause=500&multiline=true&width=920&height=100&lines=+Hi+everyone+I'm+Timofey.+I'm+looking+IT+partners+to+build+projects+in+spheres%3A++;Blockchain%2C+ML%2C+AR%2C+VR%2C+Games%2C+Web;email%3A+t13ka%40yandex.ru)](https://git.io/typing-svg)
 
-<!--
-**t13ka/t13ka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">⭐ Sleep Architect Repeat ⭐</h3>
 
-Here are some ideas to get you started:
+<p align="center">AI/ML/Crypto researcher with a passion for high-load, scalable, reliable solutions.</p>
+<p align="center">⭐ Architecture ⭐ Management ⭐ Blockchain ⭐ AI/AR/VR ⭐ Web ⭐ DevOps</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![trophy](https://github-profile-trophy.vercel.app/?username=t13ka&theme=onestar&no-frame=true&column=7&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
+<p align="center">
+  <a href="https://github.com/t13ka?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/t13ka?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+  </a>
+  <a href="https://github.com/t13ka?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/t13ka?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+  </a>
+  <a href="https://github.com/t13ka">
+    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=t13ka&style=for-the-badge&color=brightgreen"/>
+  </a>
+</p>
+
+<br/>
+
+---
+
+## 🛠️ My Tech Stack
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
@@ -69,10 +80,143 @@ Here are some ideas to get you started:
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=t13ka&layout=compact&count_private=true&theme=tokyonight" />
+<br/>
+
+---
+
+## 💻 My Favorite Tools & Technologies
+
+<div style="display: flex; align-items: flex-start;">
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
+      <br>C#
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" height="65" />
+      <br>Kubernetes
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
+      <br>AWS
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" />
+      <br>Nginx
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
+      <br>GitHub
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
+      <br>REST
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="65" height="65" />
+      <br>GraphQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/postgresql-icon.svg" alt="icon" width="65" height="65" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/redis-icon.svg" alt="icon" width="65" height="65" />
+      <br>Redis
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" height="65" />
+      <br>Webpack
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="65" height="65" />
+      <br>Sass
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
+      <br>Java
+    </td>
+  </tr>
+</table>
+</div>
+
+<br/>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/t13ka">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=t13ka&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" alt="t13ka's Github Stats"/>
+  </a>
+  <a href="https://github.com/t13ka">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=t13ka&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&count_private=true" alt="t13ka's Top Languages"/>
+  </a>
 </p>
 
-[![t13ka's github stats](https://github-readme-stats.vercel.app/api?username=t13ka&show_icons=true&theme=tokyonight)](https://github.com/t13ka)
+<p align="center">
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+</p>
 
-![](https://komarev.com/ghpvc/?username=t13ka)
+<!-- Activity Graph -->
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img alt="t13ka's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=t13ka&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/t13ka">
+    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=t13ka&theme=react&hide_border=true&bg_color=1F222E&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F" alt="t13ka's streak stats"/>
+  </a>
+</p>
+
+### ⚡ Recent GitHub Activity
+
+<!--START_SECTION:activity-->
+<!-- This section is auto-updated by github-activity-readme GitHub Action -->
+<!--END_SECTION:activity-->
+
+---
+
+## 🏷️ Holopin Badges
+
+[![@t13ka's Holopin board](https://holopin.me/t13ka)](https://holopin.io/@t13ka)
+
+---
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/t13ka/t13ka/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/t13ka/t13ka/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/t13ka/t13ka/output/github-contribution-grid-snake.svg" />
+</picture>
